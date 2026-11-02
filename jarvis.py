@@ -199,3 +199,7 @@ def procesar_orden(texto_completo):
 
     if "qué hora es" in orden or "que hora es" in orden:
         hablar(f"Son las {datetime.now().strftime('%H:%M
+
+
+# agregar interfaz
+# incorporar a wsp
